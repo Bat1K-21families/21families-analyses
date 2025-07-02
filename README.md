@@ -1,5 +1,6 @@
 # 21families: analyses, code, and contributors
-Scripts, code, and contact information of the core team who contributed to the analyses in the flagship paper of the Bat1K project phase 1 (21 families).
+**Scripts, code, and contact information of the core team who contributed to the analyses in the flagship paper of the Bat1K project phase 1 (21 families).**<br>
+We did not develop new software for this study; thus, we provide example commands for analyses or provide links to other sources employed.
 
 ### Content:
 1. [Genome assembly](https://github.com/Bat1K-21families/21families-analyses/edit/main/README.md#1-genome-assembly-for-new-genomes-released-in-this-paper)
