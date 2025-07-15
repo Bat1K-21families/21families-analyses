@@ -26,14 +26,14 @@ Led by Michael Hiller **(add repo link)[]**
 Led by David Ray **(add repo link)[]**
 - Transposable Elements (annotations and analyses)
 
-Led by (Bastian Fromm)[https://github.com/bioinfoUGR/bat1k]
+Led by [Bastian Fromm](https://github.com/bioinfoUGR/bat1k)
 - miRNAs annotations
 
 Led by Zixia Huang **(add repo link)[]**
 - miRNAs analyses
 
 ### 3. Alignments
-Led by (Ariadna Morales)[https://github.com/ariadnamorales/Bat1K_21Fam_Phylogenomics]
+Led by [Ariadna Morales](https://github.com/ariadnamorales/Bat1K_21Fam_Phylogenomics)
 - Coding genes (TOGA)
 - Reference-based multi-genome alignments (MultiZ)
 
@@ -41,7 +41,7 @@ Led by Evgeny Leushkin **(add repo link)[]**
 - Reference-free multi-genome alignments (Cactus)
 
 ### 4. Phylogenomic Inference (molecular)
-Led by (Ariadna Morales)[https://github.com/ariadnamorales/Bat1K_21Fam_Phylogenomics]
+Led by [Ariadna Morales](https://github.com/ariadnamorales/Bat1K_21Fam_Phylogenomics)
 - Coalescent-based species tree (from TOGA-annotated coding genes)
 - Whole-genome phylogenies
 - Chromosome-by-chromosome phylogenies
