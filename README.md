@@ -15,37 +15,54 @@ We did not develop new software for this study; thus, we provide example command
 
 ## Analyses:
 
-### 1. Genome assembly (for new genomes released in this paper)
-- Evgeny 
-- Thomas Brown
+### 1. Genome Assembly (new genomes released in this paper)
+Led by Evgeny Leushkin, Thomas Brown, and **add authors**
+**(add repo link)[]**
 
-### 2. Annotations 
+### 2. Genome Annotation
+Led by Michael Hiller **(add repo link)[]**
 - Coding genes (TOGA)
-        Hiller Lab (Michael)
-- Transposable Elements
-        Annotations and Analyses (David)
-- miRNAs 
-        Annotations (Bastian )
-        Analyses (Zixia)
 
-### 3. Alignements  
-- Coding genes 
-- Reference-based mutigenome alignements (multiZ)
-- Reference-free mutigenome alignements (cactus)
+Led by David Ray **(add repo link)[]**
+- Transposable Elements (annotations and analyses)
 
-### 4. Phylogenomic inference (molecular)
-- Part 1 (Ariadna)
-- Concatenation of coding genes (Graham)
-- Part 2 (Yan)
+Led by Bastian Fromm **(add repo link)[]**
+- miRNAs annotations
 
-### 5. Molecular dating with fossil calibrations
-- Graham
+Led by Zixia Huang **(add repo link)[]**
+- miRNAs analyses
 
-### 6. Fossilized birth-death models (molecular + morphology)
-- Bill
+### 3. Alignments
+Led by Ariadna Morales **(add repo link)[]**
+- Coding genes (TOGA)
+- Reference-based multi-genome alignments (MultiZ)
 
-### 7. Reconstructing the ancestral bat karyotype 
-- Denis
+**(add repo link)[]**
+- Reference-free multi-genome alignments (Cactus)
 
-### 8. Biogeography 
-- Bill
+### 4. Phylogenomic Inference (molecular)
+Led by Ariadna Morales **(add repo link)[]**
+- Coalescent-based species tree (from TOGA-annotated coding genes)
+- Whole-genome phylogenies
+- Chromosome-by-chromosome phylogenies
+- Sliding window phylogenies
+- Neutral intergenic window analyses
+
+Led by Graham Hughes **(add repo link)[]**
+- Concatenation-based coding gene phylogeny
+
+Led by Yan Liang **(add repo link)[]**
+- Neutral sites phylogeny
+- Mitochondrial phylogenies
+
+### 5. Molecular Dating with Fossil Calibrations
+Led by Graham Hughes **(add repo link)[]**
+
+### 6. Fossilized Birth–Death Models (molecular + morphological)
+Led by William Thomas **(add repo link)[]**
+
+### 7. Ancestral Bat Karyotype Reconstruction
+Led by Denis Larkin **(add repo link)[]**
+
+### 8. Biogeography
+Led by William Thomas **(add repo link)[]**
