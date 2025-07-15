@@ -1,4 +1,4 @@
-# 21families: analyses, code, and contributors
+# Bat1K 21families: analyses, code, and contributors
 **Scripts, code, and contact information of the core team who contributed to the analyses in the flagship paper of the Bat1K project phase 1 (21 families).**<br>
 We did not develop new software for this study; thus, we provide example commands for analyses or provide links to other sources employed.
 
