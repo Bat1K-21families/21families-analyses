@@ -17,52 +17,52 @@ We did not develop new software for this study; thus, we provide example command
 
 ### 1. Genome Assembly (new genomes released in this paper)
 Led by Evgeny Leushkin, Thomas Brown, and **add authors**
-**(add repo link)[]**
+**[see code repository]()**
 
 ### 2. Genome Annotation
-Led by Michael Hiller **(add repo link)[]**
+Led by Michael Hiller **[see code repository]()**
 - Coding genes (TOGA)
 
-Led by David Ray **(add repo link)[]**
+Led by David Ray **[see code repository]()**
 - Transposable Elements (annotations and analyses)
 
-Led by [Bastian Fromm](https://github.com/bioinfoUGR/bat1k)
+Led by Bastian Fromm [see code repository](https://github.com/bioinfoUGR/bat1k)
 - miRNAs annotations
 
-Led by Zixia Huang **(add repo link)[]**
+Led by Zixia Huang **[see code repository]()**
 - miRNAs analyses
 
 ### 3. Alignments
-Led by [Ariadna Morales](https://github.com/ariadnamorales/Bat1K_21Fam_Phylogenomics)
+Led by Ariadna Morales **[see code repository](https://github.com/ariadnamorales/Bat1K_21Fam_Phylogenomics)**
 - Coding genes (TOGA)
 - Reference-based multi-genome alignments (MultiZ)
 
-Led by Evgeny Leushkin **(add repo link)[]**
+Led by Evgeny Leushkin **[see code repository]()**
 - Reference-free multi-genome alignments (Cactus)
 
 ### 4. Phylogenomic Inference (molecular)
-Led by [Ariadna Morales](https://github.com/ariadnamorales/Bat1K_21Fam_Phylogenomics)
+Led by Ariadna Morales **[see code repository](https://github.com/ariadnamorales/Bat1K_21Fam_Phylogenomics)**
 - Coalescent-based species tree (from TOGA-annotated coding genes)
 - Whole-genome phylogenies
 - Chromosome-by-chromosome phylogenies
 - Sliding window phylogenies
 - Neutral intergenic window analyses
 
-Led by Graham Hughes **(add repo link)[]**
+Led by Graham Hughes **[see code repository]()**
 - Concatenation-based coding gene phylogeny
 
-Led by Yan Liang **(add repo link)[]**
+Led by Yan Liang **[see code repository]()**
 - Neutral sites phylogeny
 - Mitochondrial phylogenies
 
 ### 5. Molecular Dating with Fossil Calibrations
-Led by Graham Hughes **(add repo link)[]**
+Led by Graham Hughes **[see code repository]()**
 
 ### 6. Fossilized Birth–Death Models (molecular + morphological)
-Led by William Thomas **(add repo link)[]**
+Led by William Thomas **[see code repository]()**
 
 ### 7. Ancestral Bat Karyotype Reconstruction
-Led by Denis Larkin **(add repo link)[]**
+Led by Denis Larkin **[see code repository]()**
 
 ### 8. Biogeography
-Led by William Thomas **(add repo link)[]**
+Led by William Thomas **[see code repository]()**
