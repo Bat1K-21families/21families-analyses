@@ -59,10 +59,10 @@ Led by Yan Liang **[see code repository]()**
 Led by Graham Hughes **[see code repository]()**
 
 ### 6. Fossilized Birth–Death Models (molecular + morphological)
-Led by William Thomas **[see code repository]()**
+Led by William Thomas **[see code repository](https://github.com/wrthomas315/Bat1K_21fam_FBD_BioGeo)**
 
 ### 7. Ancestral Bat Karyotype Reconstruction
 Led by Denis Larkin **[see code repository]()**
 
 ### 8. Biogeography
-Led by William Thomas **[see code repository]()**
+Led by William Thomas **[see code repository](https://github.com/wrthomas315/Bat1K_21fam_FBD_BioGeo)**
